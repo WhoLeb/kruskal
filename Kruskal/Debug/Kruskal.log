@@ -1,12 +1,12 @@
 ﻿  Kruskal.cpp
 F:\dev\Kruskal\Kruskal\Kruskal.cpp(70,17): warning C4018: '<': signed/unsigned mismatch
-F:\dev\Kruskal\Kruskal\dynamic_array.h(195,12): warning C4018: '<': signed/unsigned mismatch
+F:\dev\Kruskal\Kruskal\dynamic_array.h(196,12): warning C4018: '<': signed/unsigned mismatch
 F:\dev\Kruskal\Kruskal\dynamic_array.h(190): message : while compiling class template member function 'void WhoLeb::dynamic_array<edge>::m_sort(void)'
 F:\dev\Kruskal\Kruskal\dynamic_array.h(157): message : see reference to function template instantiation 'void WhoLeb::dynamic_array<edge>::m_sort(void)' being compiled
 F:\dev\Kruskal\Kruskal\dynamic_array.h(54): message : while compiling class template member function 'WhoLeb::dynamic_array<edge>::dynamic_array(void)'
 F:\dev\Kruskal\Kruskal\Kruskal.cpp(56): message : see reference to function template instantiation 'WhoLeb::dynamic_array<edge>::dynamic_array(void)' being compiled
 F:\dev\Kruskal\Kruskal\Kruskal.cpp(56): message : see reference to class template instantiation 'WhoLeb::dynamic_array<edge>' being compiled
-F:\dev\Kruskal\Kruskal\dynamic_array.h(199,44): warning C4018: '<': signed/unsigned mismatch
+F:\dev\Kruskal\Kruskal\dynamic_array.h(200,44): warning C4018: '<': signed/unsigned mismatch
 F:\dev\Kruskal\Kruskal\dynamic_array.h(164,21): warning C4018: '<': signed/unsigned mismatch
 F:\dev\Kruskal\Kruskal\dynamic_array.h(161): message : while compiling class template member function 'void WhoLeb::dynamic_array<edge>::double_size(void)'
 F:\dev\Kruskal\Kruskal\dynamic_array.h(93): message : see reference to function template instantiation 'void WhoLeb::dynamic_array<edge>::double_size(void)' being compiled

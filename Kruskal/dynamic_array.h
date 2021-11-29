@@ -188,6 +188,7 @@ namespace WhoLeb
 	template<class T>
 	inline void dynamic_array<T>::m_sort()
 	{
+		if (!current_count) return;
 		T* arra = nullptr;
 		minrun = get_minrun();
 		pair* runs = new pair[current_count / minrun + 1];
